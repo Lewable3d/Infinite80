@@ -10,4 +10,7 @@ My 1st Website from scratch for code fellows
 
 changes
 
-######## changes
+# coding is great
+
+
+coding is fun 
